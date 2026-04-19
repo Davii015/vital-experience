@@ -2,17 +2,17 @@
 
 Sistema de monitoramento físico desenvolvido no 5º período de Engenharia de Software.
 
-## 📌 Funcionalidades
+##  Funcionalidades
 - Login
 - Dashboard
 - Cadastro de usuários
 - Cadastro de profissionais
 
-## 🛠 Tecnologias
+##  Tecnologias
 - HTML, CSS, JavaScript
 - Node.js + Express
 
-## ▶️ Como executar
+##  Como executar
 
 ### Backend
 cd backend
@@ -22,5 +22,5 @@ node server.js
 ### Frontend
 Abrir os arquivos HTML no navegador
 
-## 📁 Estrutura
+##  Estrutura
 Frontend e backend organizados em camadas.
